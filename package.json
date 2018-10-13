@@ -2,7 +2,7 @@
   "name": "ledger-rest",
   "version": "0.2.1",
   "description": "REST web service API to access ledger cli data.",
-n  "repository": {
+  "repository": {
     "type": "git",
     "url": "git://github.com/slashdotdash/node-ledger-rest.git"
   },
