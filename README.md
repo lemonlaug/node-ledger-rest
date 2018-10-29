@@ -1,3 +1,8 @@
+#This fork:
+
+This fork just bumps the ledger-cli version used by node-ledger-rest
+to the github head so that it can benefit to some improvements there.
+
 # ledger-rest
 
 REST web service API to access the Ledger command-line interface ([ledger-cli.org](http://ledger-cli.org/)).
