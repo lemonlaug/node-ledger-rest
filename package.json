@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "JSONStream": "^1.3.2",
-    "ledger-cli": "slashdotdash/node-ledger",
+    "ledger-cli": "slashdotdash/node-ledger#bd2e5ec60ae5cfb8e8409b09f9a09a7f191924c1",
     "lodash": "^4.17.5",
     "restify": "^6.3.4"
   },
