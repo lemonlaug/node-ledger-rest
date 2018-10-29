@@ -1,7 +1,9 @@
-#This fork:
+# This fork:
 
 This fork just bumps the ledger-cli version used by node-ledger-rest
 to the github head so that it can benefit to some improvements there.
+
+This is designed to work with [this docker container](https://github.com/lemonlaug/docker-ledger-web).
 
 # ledger-rest
 
